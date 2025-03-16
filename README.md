@@ -2,7 +2,7 @@
 
 **Winhance** is a PowerShell GUI application designed to optimize and customize your Windows experience. <br> From software management to system optimizations and customization, Winhance provides functions to enhance Windows 10 and 11 systems.<br><br>**Winhance** features most of the same enhancements as [UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) without needing to do a clean install of Windows.
 
-![image](https://github.com/user-attachments/assets/eda81081-6430-41a2-baaa-4e06120b2cab)
+![image](https://ibb.co/WNP5ZjSw)
 
 ## Requirements 💻
 - Windows 11
