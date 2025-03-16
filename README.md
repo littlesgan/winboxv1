@@ -1,6 +1,6 @@
 # Winbox - Windows Enhancement Utility 🛡️
 
-**Winbox** is a PowerShell GUI application designed to optimize and customize your Windows experience. <br> From software management to system optimizations and customization, Winbox provides functions to enhance Windows 10 and 11 systems.<br><br>**Winhance** features most of the same enhancements as [UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) without needing to do a clean install of Windows.
+**Winbox** is a PowerShell GUI application designed to optimize and customize your Windows experience. <br> From software management to system optimizations and customization, Winbox provides functions to enhance Windows 10 and 11 systems.<br><br>**Winbox** features most of the same enhancements as [UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) without needing to do a clean install of Windows.
 
 ![Winbox](https://github.com/user-attachments/assets/272df3cc-df6a-4f7c-ad55-1ac26c76ad1c)
 
