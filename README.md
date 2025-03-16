@@ -34,7 +34,7 @@ To use **Winbox**, follow these steps to launch PowerShell as an Administrator a
    - To paste into PowerShell, **Right-Click** or press **Ctrl + V** in the PowerShell or Terminal window
    - Press **Enter** to execute the command
 
-This command will download and execute the **Winhance** application directly from GitHub.
+This command will download and execute the **Winbox** application directly from GitHub.
 
 ## Current Features 🛠️
 
